@@ -46,8 +46,8 @@ This project currently does not specify a license. Please contact the repository
 For more information, visit the [GitHub Repository](https://github.com/Iamsvito/discord-bot-online).
 
 ## 指令使用說名:
-+ == 空格
-def == 分類用
+- + == 空格
+- def == 分類用
 格式:!指令(替代方案)+你輸入的值-->輸出值
 範例:(!add 2 2-->4) or (!加 2 2-->4)
 def Hehe():
