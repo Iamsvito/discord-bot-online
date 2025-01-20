@@ -50,14 +50,14 @@ For more information, visit the [GitHub Repository](https://github.com/Iamsvito/
 def == 分類用<br>
 格式:!指令(替代方案)+你輸入的值-->輸出值<br>
 範例:(!add 2 2-->4) or (!加 2 2-->4)<br>
-def Hehe():
+## def Hehe():
 	!網站(website)-->提供的網站以及番號位數<br>
 	!N站(nhentai)+番號-->該網站網址<br>
 	!紳士漫畫(wnacg.com)+番號-->該網站網址<br>
 	!P站(pixiv)+番號-->該網站網址<br>
 	!禁漫天堂(18comic)+番號-->該網站網址<br>
 	!random(隨機)+位數-->幾位數的隨機番號<br>
-def math():
+## def math():
 	!roll_dice(擲骰)-->隨機數字(1~6)<br>
 	!add(加)+數字1+數字2-->數字1+數字2<br>
 	!subtract(減)+數字1+數字2-->數字1-數字2<br>
@@ -71,7 +71,7 @@ def math():
 	!s1number(數列1)+n-->(1+2+...n)總和<br>
 	!s2number(數列2)+n-->(1**2+2**2+...n)總和<br>
 	!s3number(數列3)+n-->(1**3+2**3+...n**3)總和<br>
-def high_school():
+## def high_school():
 	!Change(找零)+購買金額+付的金額-->找500, 100, 10, 1元的紙鈔數量<br>
 	!Leapyear(閏年判斷)+西元年-->是否為閏年<br>
 	!bmi(身體質量指數)+weight(kg)+height(cm)-->BMI屬於範圍<br>
@@ -80,7 +80,7 @@ def high_school():
 	!triangle(三角形)+a+b+c-->判斷給定的三個邊長是否能形成三角形，並確定三角形的類型<br>
 	!dna(去氧核酸配對)+一段含氮鹼基序列--> DNA 中的配對序列<br>
 	!rna(核酸配對)+一段含氮鹼基序列--> RNA 中的配對序列<br>
-def 1a2b():
+## def 1a2b():
 	!start1a2b+指定數字位數 (1-10)-->開始一個新的1A2B遊戲(可指定數字位數)<br>
 	!guess1a2b+用戶的猜測的數字-->返回A和B的數量<br>
 	!reset1a2b-->重置當前用戶的遊戲<br>
